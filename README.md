@@ -2,7 +2,7 @@
   <img src="https://github.com/your-username/your-username/blob/main/animation.gif?raw=true" alt="Welcome Animation" width="100%">
 </p>
 
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Podda!
 
 ### 💻 A Passionate Developer / Designer from Sri Lanka
 
